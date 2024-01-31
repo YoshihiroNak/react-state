@@ -6,7 +6,7 @@ const App = () => {
     <>
       <h1>Bitcoin Index</h1>
       <BitcoinIndex />
-    </>
+      </>
   )
 }
 
